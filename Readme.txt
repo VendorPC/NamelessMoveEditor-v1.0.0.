@@ -17,7 +17,7 @@ In Diamond and Pearl the file is located at poketool/waza/waza_tbl.narc you can 
 
 Then you wanna run the .exe included in this folder, that should boot up the menu.
 Go to File\Open Rom and then select the Waza_tbl NARC you just extracted.
-After this go to Module/LoadModule then go to the "Interals" Folder of this download and the file name should be "Attack Data Module" open that one.
+After this go to Module/LoadModule then go load the Attack Data Module.nmm Folder of this download and the file name should be "Attack Data Module" open that one.
 Your all set!
 
 To Save Changes Press the "Enter" Key or go to File\Save Changes
