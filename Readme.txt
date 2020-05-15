@@ -31,3 +31,5 @@ Priority Settings can go in a range of -7 to 5.
 Base Power can only go up to 255 and Accuracy can only go up to 100%.
 For moves that always want their move effect active (For Example: Brick Break) set the effect chance % to "0" it will always trigger this way.
 
+For Moves like Zap Cannon that always paralyze set the effect chance % to 100%.
+
