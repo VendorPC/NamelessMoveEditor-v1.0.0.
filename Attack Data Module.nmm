@@ -1,0 +1,61 @@
+1
+Nameless Move Editor v1.0.0.
+0xEEC
+468
+16
+Move Names.txt
+NULL
+
+Move Effect:
+0
+2
+NEHU
+NULL
+
+Classification:
+2
+1
+NDDU
+PSS.txt
+
+Base Power:
+3
+1
+NEDU
+NULL
+
+Type:
+4
+1
+NDDU
+Type List.txt
+
+Accuracy (%):
+5
+1
+NEDU
+NULL
+
+PP
+6
+1
+NEDU
+NULL
+
+Effect Chance (%):
+7
+1
+NEDU
+NULL
+
+Targets:
+8
+1
+NDHU
+Targets.txt
+
+Priority:
+10
+1
+NEDS
+NULL

@@ -1,0 +1,10 @@
+9
+0x0 One opponent
+0x1 Automatic
+0x2 Random
+0x4 Both opponents
+0x8 Both opponents and ally
+0x10 User
+0x20 User's side of field
+0x40 Entire field
+0x80 Opponent's side of field
